@@ -1,0 +1,10 @@
+spiders:
+  rootUrl: "https://www.xuexi.cn/lgdata/5c90534c80d14c060d6683fa960e3676/82573c005c024095037d2186a02244cb.json?_st=27848752&js_v=1668064369502"
+  fileLocalPath: "/root/spiderDataFiles/"
+upLoadFiles:
+  isUpLoad: true
+  hostName: "172.18.27.36"
+  port: 21
+  user: "user6"
+  password: "hzswb@0571"
+  filePath: "/home/user6/"
